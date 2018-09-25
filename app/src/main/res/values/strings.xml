@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Easy Chat WA</string>
+    <string name="action_settings">Settings</string>
+    <string name="go">GO</string>
+    <string name="call">chat</string>
+    <string name="konfirmasi_keluar_aplikasi">Confirm Exit Application ?</string>
+    <string name="chat_otomatis_off">Auto Chat : </string>
+    <string name="text_off">OFF</string>
+    <string name="text_on">ON</string>
+    <string name="easy_whatsapp">Easy Chat WA</string>
+    <string name="notif_listener_service">Notification Listener Service</string>
+    <string name="code">Code</string>
+    <string name="country_code">Please Input Your Country Code</string>
+    <string name="country_code2">Country Code</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type_your_default_message_here">Message</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--test-->
+    <string name="interstitial_video">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="UNIT_ID_lIST_FOOTER">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--prod-->
+   <!-- <string name="interstitial_video">ca-app-pub-4478275365273097/7782909452</string>
+    <string name="UNIT_ID_lIST_FOOTER">ca-app-pub-4478275365273097/5882397203</string>-->
+
+</resources>
