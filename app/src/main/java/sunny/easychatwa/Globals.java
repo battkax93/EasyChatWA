@@ -16,13 +16,14 @@ public class Globals {
     public static final String ADD_MOB_APP_ID = "ca-app-pub-3940256099942544~3347511713";
 
 
+
     /**
      * PROD
      **/
    /* public static final boolean showlog = false;
     public static final boolean admob = false;
 
-    public static final String ADD_MOB_APP_ID = "ca-app-pub-4478275365273097~3639377242";*/
+    public static final String ADD_MOB_APP_ID = "ca-app-pub-4478275365273097~6292291161";*/
 
 
     //Analytic
